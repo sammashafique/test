@@ -1,3 +1,4 @@
 something
 someting else
-ufhsdkfjke
+edited line
+new line
